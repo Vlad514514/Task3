@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+
+.container{
+    min-height: 1000px;;
+    width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: silver;
+}
+
+audio{
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    width: 950px;
+    margin-bottom: 40px;
+}
